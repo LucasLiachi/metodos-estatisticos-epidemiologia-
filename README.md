@@ -1,4 +1,5 @@
-# metodos-estatisticos-epidemiologia-
+# metodos estatisticos epidemiologia
+
 Este repositório contém o trabalho de conclusão de curso sobre "Métodos de inferência estatística para epidemiologia". O projeto tem como objetivo evidenciar e aprimorar as contribuições da estatística para a epidemiologia atual, criando uma base metodológica sólida para a análise e interpretação de dados de saúde.
 
 O trabalho utiliza dados da PNAD de setembro e novembro de 2020 referentes a levantamentos socioeconômicos durante a pandemia de COVID-19. Ele aborda a necessidade de práticas baseadas em evidências, utilizando dados da PNAD para fundamentar a escolha de melhores práticas estatisticamente embasadas. Além disso, o projeto verifica se os grupos mapeados na pesquisa interferem no número de casos, buscando evidências de diferenças significativas entre eles.
